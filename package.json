@@ -1,0 +1,24 @@
+{
+  "name": "sql_classroom_dev-0402",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jimin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heeeun1207/SQL_classroom_dev-0402.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heeeun1207/SQL_classroom_dev-0402/issues"
+  },
+  "homepage": "https://github.com/heeeun1207/SQL_classroom_dev-0402#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "type":"module"
+}
